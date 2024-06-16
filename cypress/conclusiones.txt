@@ -1,0 +1,15 @@
+Estado del Software: 
+    - El Software tenia funcionalidad especifica y la cual permitio generar tipos de pruebas exitosas y fallidas, las cuales pasaron extosamente segun el escenario.
+
+Cobertura de Pruebas: 
+    - Se realizo un prueba e2e exitosa con la compra de dos productos.
+
+Defectos Identificados: 
+    - No se tiene retorno automatico al home del sistema cuando se agrega un producto al carrito.
+    - El carrito no tienen una opcion para regresar al home 
+    - No se puede ver el carrito cuando se agrega un producto al mismo
+    - Cuando la compra se realiza exitosamente el popup de formulario no desaparece
+
+Recomendaciones: 
+    - Considerar los defectos encontrados como mejora para una experiencia satisfactoria para el usuario final.
+
